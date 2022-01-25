@@ -12,3 +12,8 @@ Name | Description
 [Research](https://www.antevenio.com/usa/tools-to-create-the-best-rich-media-banners/) | Study and Research about RM
 [Research & Career](https://www.richmedia.com/) | Study and Research about RM
 [Research Tools](https://appsamurai.com/7-tools-for-generating-amazing-banner-ads/) | Study and Research about RM
+
+## Resources Link
+Name | Details
+------------ | -------------
+[Resource 1](https://www.creatopy.com/blog/create-animated-banner-ad/) | RM Tools and Example samples
